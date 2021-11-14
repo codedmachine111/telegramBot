@@ -1,1 +1,1 @@
-api_token="2108115277:AAFx5xNJtOJad4aHGOCYENu11aTi29UOFvU"
+api_token="YOUR_API_TOKEN"
