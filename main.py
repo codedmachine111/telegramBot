@@ -2,7 +2,7 @@
 import random
 import config
 import responses as R
-# from telegram.ext import *
+from telegram.ext import *
 
 print("Bot ACTIVE..")
 
